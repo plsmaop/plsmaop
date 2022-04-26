@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: allenivan@gmail.com
-- Seeking for 2022 new grad software engineer positions: backend, infrastructure, database, Go, C++, Kubernetes
+- Interested in: backend, distributed systems, infrastructure, database, Go, C++, Kubernetes
 <!--
 **plsmaop/plsmaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
